@@ -6,6 +6,7 @@ Flutter package used :<br/>
 <br/>
 
 Debug console <br/>
-GeofenceStatus.ENTER: User enter geofence area.<br/><br/>
+GeofenceStatus.ENTER: User enter geofence area.<br/>
+GeofenceStatus.DWELL: User stay inside the radius.<br/>
 GeofenceStatus.EXIT: User exit geofence area.<br/>
 
